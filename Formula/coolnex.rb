@@ -1,8 +1,8 @@
 class Coolnex < Formula
   desc "Friendly fan controller for macOS — terminal dashboard and CLI"
   homepage "https://github.com/SyCLoNEwoRLD/coolnex"
-  url "https://github.com/SyCLoNEwoRLD/coolnex/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "953dee17efd35ccdfedefef85f366ea1086dc411abf4e0a2959c090573cc0be1"
+  url "https://github.com/SyCLoNEwoRLD/coolnex/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "d3e54d810637cea4bf62236bb67908000a76a612a3995020b9a8b66111e96433"
   license "GPL-3.0-or-later"
   head "https://github.com/SyCLoNEwoRLD/coolnex.git", branch: "main"
 
